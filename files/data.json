@@ -1,0 +1,11 @@
+{
+    "OnlineGames": {
+        "RepoUrl": "https:\/\/github.com\/Ahmerjutt\/pog\/archive\/master.zip",
+        "Name": "OnlineGames",
+        "RepoName": "pog",
+        "Branch": "master",
+        "CloneUrl": "D:\/Installed\/Xampp\/htdocs\/OnlineGames",
+        "Token": "e672b9a371a879143caa3078ad96d0b227316037",
+        "extract": true
+    }
+}
